@@ -12,13 +12,15 @@
     "url": "git+https://github.com/WMD11/goit-js-hw-10.git"
   },
   "keywords": [],
-  "author": "Vladislav Moldovanu <alexander.repeta@gmail.com>",
+  "author": "Vladislav Moldovanu <Vmoldova3@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/WMD11/goit-js-hw-10/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.6",
+    "slim-select": "^2.7.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
